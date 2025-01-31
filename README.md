@@ -1,6 +1,6 @@
-# ToCAL - Schedule to Calendar Converter
+# ToCal - Schedule to Calendar Converter
 
-ToCAL is a web application that converts class schedule images into calendar events. It utilizes Ollama with the Llava model for image recognition and text extraction, making it easy to digitize your class schedules.
+ToCal is a web application that converts class schedule images into calendar events. It utilizes Ollama with the Llava model for image recognition and text extraction, making it easy to digitize your class schedules.
 
 ## Prerequisites
 
